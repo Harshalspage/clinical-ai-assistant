@@ -141,6 +141,4 @@ Bioengineering | Clinical Data Systems | AI & Agentic Workflows
 
 ---
 
-## ⚠️ Disclaimer
 
-This project is for research and educational purposes only and is not intended for real-world medical diagnosis or treatment.
