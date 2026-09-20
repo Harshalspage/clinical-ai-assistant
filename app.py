@@ -1,6 +1,7 @@
 import streamlit as st
-from reasoning_engine import run_reasoning
-
+from src.reasoning import run_reasoning
+from src.validation import validate_input
+   
 st.set_page_config(page_title="Clinical Reasoning Assistant")
 
 st.title("🧠 Clinical Reasoning Assistant")
@@ -10,8 +11,10 @@ user_input = st.text_area(
 )
 
 if st.button("Analyze"):
+    
+    is_valid, message = validate_input(user_input)
 
-    if user_input:
+    if is_valid:
 
         result = run_reasoning(user_input)
 
@@ -20,4 +23,5 @@ if st.button("Analyze"):
         st.write(result)
 
     else:
-        st.warning("Please enter a clinical case.")
+        st.warning(message)
+
