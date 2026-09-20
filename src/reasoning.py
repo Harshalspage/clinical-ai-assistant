@@ -1,12 +1,18 @@
-import os
-from groq import Groq
-from dotenv import load_dotenv
-from prompts import get_structured_prompt
+from src.utils import log_error
 
-load_dotenv()
+from groq import Groq
+
+from src.prompts import get_structured_prompt
+from src.config import (
+    GROQ_API_KEY,
+    MODEL_NAME,
+    TEMPERATURE,
+    MAX_TOKENS
+)
+
 
 client = Groq(
-    api_key=os.getenv("GROQ_API_KEY")
+    api_key=GROQ_API_KEY
 )
 
 
@@ -17,7 +23,9 @@ client = Groq(
 def extract_symptoms(user_input):
 
     response = client.chat.completions.create(
-        model="llama-3.1-8b-instant",
+    
+ 
+        model=MODEL_NAME,
         messages=[
             {
                 "role": "system",
@@ -28,18 +36,21 @@ def extract_symptoms(user_input):
                 "content": user_input
             }
         ],
-        temperature=0.2
+        temperature=TEMPERATURE
     )
 
     return response.choices[0].message.content
 
 def run_reasoning(user_input):
+    
+    
+
 
     clinical_keywords = [
         "patient",
         "pain",
         "treatment",
-        "symptom"
+        "symptom",
         "radiotherapy"
     ]
 
@@ -50,9 +61,11 @@ def run_reasoning(user_input):
 
     prompt = get_structured_prompt(user_input)
 
-    response = client.chat.completions.create(
-        model="llama-3.1-8b-instant",
-        messages=[
+    try:
+       
+       response = client.chat.completions.create(
+         model=MODEL_NAME,
+          messages=[
     {
         "role": "system",
         "content": (
@@ -60,13 +73,27 @@ def run_reasoning(user_input):
             "Only answer healthcare and clinical-related queries. "
             "If the user asks unrelated questions, politely refuse."
         )
+
+
+   
     },
     {
         "role": "user",
         "content": prompt
     }
+    
+    
 ],
-        temperature=0.3
+        temperature=TEMPERATURE
     )
+    
 
-    return response.choices[0].message.content
+       return response.choices[0].message.content
+
+
+    except Exception as e:
+       log_error(e)
+       return "Sorry, something went wrong while contacting the AI service. Please try again later."
+
+ 
+   

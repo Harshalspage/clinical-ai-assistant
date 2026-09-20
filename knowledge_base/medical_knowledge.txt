@@ -1,0 +1,256 @@
+PNEUMONIA
+
+Definition:
+Pneumonia is an infection of the lung parenchyma that can cause inflammation and impaired gas exchange.
+
+Common clinical features:
+- Fever or chills
+- Cough, which may be productive or nonproductive
+- Shortness of breath
+- Pleuritic chest pain
+- Fatigue or weakness
+- Tachypnea may occur
+- Hypoxemia may occur in more severe disease
+
+Features that can support pneumonia:
+- Fever associated with respiratory symptoms
+- Cough with or without sputum production
+- Focal respiratory findings on examination
+- Chest imaging showing an infiltrate can support the diagnosis
+
+Important considerations:
+Pneumonia can range from mild illness to severe infection. Severity should be assessed using the patient's overall clinical condition, vital signs, oxygenation and relevant investigations.
+
+==================================================
+
+ACUTE CORONARY SYNDROME AND MYOCARDIAL INFARCTION
+
+Definition:
+Acute coronary syndrome (ACS) refers to conditions caused by acute myocardial ischemia and includes unstable angina and myocardial infarction.
+
+Common clinical features:
+- Chest pressure, tightness, heaviness or discomfort
+- Pain may radiate to the arm, shoulder, neck, jaw or back
+- Shortness of breath
+- Sweating
+- Nausea or vomiting
+- Weakness or lightheadedness
+
+Important considerations:
+Chest discomfort should not be assumed to be cardiac or non-cardiac based on symptoms alone. ACS requires appropriate clinical assessment and investigations.
+
+Evaluation may include:
+- 12-lead ECG
+- Cardiac troponin testing
+- Vital signs
+- Clinical history and physical examination
+- Additional testing according to clinical presentation
+
+Red flag:
+New or severe chest pain, particularly when associated with shortness of breath, sweating, fainting or other concerning symptoms, requires urgent medical assessment.
+
+==================================================
+
+PULMONARY EMBOLISM
+
+Definition:
+Pulmonary embolism (PE) occurs when a blood clot, usually originating from the venous circulation, travels to the pulmonary arteries.
+
+Common clinical features:
+- Sudden or unexplained shortness of breath
+- Pleuritic chest pain
+- Tachycardia
+- Cough
+- Hemoptysis may occur
+- Lightheadedness or syncope may occur in severe cases
+
+Risk factors may include:
+- Recent surgery or hospitalization
+- Prolonged immobility
+- Previous venous thromboembolism
+- Active cancer
+- Pregnancy or the postpartum period
+- Estrogen exposure
+- Certain inherited or acquired thrombophilic conditions
+
+Important considerations:
+PE can be life-threatening and may present with nonspecific symptoms. Clinical probability assessment and appropriate diagnostic testing are required.
+
+Red flags:
+Severe shortness of breath, syncope, hypotension, marked tachycardia or significant oxygen desaturation require urgent evaluation.
+
+==================================================
+
+PLEURISY
+
+Definition:
+Pleurisy is inflammation of the pleura and typically produces pain that is worsened by breathing or coughing.
+
+Common clinical features:
+- Sharp chest pain
+- Pain worsened by deep inspiration
+- Pain worsened by coughing
+- Pain may be localized to one side of the chest
+
+Potential causes include:
+- Viral infection
+- Pneumonia
+- Pulmonary embolism
+- Other inflammatory or pulmonary conditions
+
+Important considerations:
+Pleuritic chest pain is a symptom rather than a specific diagnosis. Serious causes such as pulmonary embolism and pneumonia must be considered when supported by the clinical presentation.
+
+==================================================
+
+FEVER
+
+Definition:
+Fever is an elevation of body temperature associated with a regulated change in the body's temperature set point, commonly occurring during infection or inflammation.
+
+Common associated features:
+- Chills
+- Sweating
+- Fatigue
+- Headache
+- Muscle aches
+- Increased heart rate may occur
+
+Clinical considerations:
+The cause of fever should be evaluated using the duration of illness, associated symptoms, examination findings and relevant investigations.
+
+Fever with chest pain or breathing difficulty requires consideration of potentially serious cardiopulmonary causes.
+
+==================================================
+
+CHEST PAIN
+
+Chest pain has many possible causes and may originate from cardiovascular, pulmonary, gastrointestinal, musculoskeletal or other conditions.
+
+Potential serious causes include:
+- Acute coronary syndrome
+- Pulmonary embolism
+- Aortic emergencies
+- Pneumothorax
+- Severe pulmonary infection
+
+Important clinical features to assess:
+- Onset and duration
+- Location
+- Character of pain
+- Severity
+- Radiation
+- Relationship to exertion
+- Relationship to breathing or coughing
+- Associated shortness of breath
+- Sweating
+- Nausea
+- Syncope
+- Relevant cardiovascular and thromboembolic risk factors
+
+Important principle:
+Chest pain should not be diagnosed from a single symptom. The differential diagnosis should be guided by the complete clinical presentation and appropriate evaluation.
+
+==================================================
+
+DYSPNEA AND DIFFICULTY BREATHING
+
+Definition:
+Dyspnea is the subjective sensation of difficult or uncomfortable breathing.
+
+Potential causes include:
+- Pneumonia
+- Pulmonary embolism
+- Acute coronary syndrome
+- Asthma
+- Chronic obstructive pulmonary disease exacerbation
+- Heart failure
+- Pneumothorax
+- Other pulmonary or cardiovascular conditions
+
+Important clinical features:
+- Sudden versus gradual onset
+- Severity and progression
+- Oxygen saturation
+- Respiratory rate
+- Chest pain
+- Cough
+- Fever
+- Wheezing
+- Syncope or altered mental status
+
+Red flags:
+Severe respiratory distress, cyanosis, altered mental status, severe hypoxemia, inability to speak normally because of breathlessness or hemodynamic instability require urgent medical evaluation.
+
+==================================================
+
+FEVER WITH CHEST PAIN AND DYSPNEA
+
+Clinical reasoning:
+The combination of fever, chest pain and difficulty breathing has a broad differential diagnosis.
+
+Important possibilities include:
+- Pneumonia
+- Pulmonary embolism
+- Acute coronary syndrome or myocardial infarction
+- Pleurisy
+- Other cardiopulmonary conditions
+
+Fever may increase suspicion for an infectious process such as pneumonia, but fever does not exclude serious cardiovascular or thromboembolic disease.
+
+Pleuritic chest pain may occur with pneumonia, pleurisy or pulmonary embolism.
+
+Clinical assessment should consider:
+- Onset and duration
+- Vital signs
+- Oxygen saturation
+- Character and location of chest pain
+- Cough and sputum
+- Cardiovascular symptoms
+- Thromboembolic risk factors
+- Physical examination findings
+- Appropriate laboratory and imaging investigations
+
+Important principle:
+The symptom combination alone is insufficient to establish a definitive diagnosis.
+
+==================================================
+
+CLINICAL RED FLAGS
+
+Symptoms requiring urgent medical assessment may include:
+
+- Severe or rapidly worsening difficulty breathing
+- Severe or new chest pain
+- Chest pain associated with sweating, syncope or severe weakness
+- Fainting or near-fainting
+- Cyanosis
+- Severe oxygen desaturation
+- Altered mental status
+- Hypotension or signs of shock
+- Severe tachycardia
+- Rapid clinical deterioration
+
+Clinical principle:
+A clinical reasoning system should identify potentially life-threatening conditions and recommend urgent professional evaluation when red flags are present.
+
+==================================================
+
+DIFFERENTIAL DIAGNOSIS PRINCIPLES
+
+Differential diagnosis is the process of considering multiple possible explanations for a patient's presentation.
+
+A clinical reasoning system should:
+- Identify the major presenting symptoms
+- Consider multiple plausible conditions
+- Identify findings that support each possibility
+- Identify findings that argue against each possibility when available
+- Consider important risk factors
+- Identify potentially life-threatening diagnoses that should not be missed
+- Distinguish between a possible diagnosis and a confirmed diagnosis
+- Identify when additional clinical evaluation or testing is required
+
+Important principle:
+Symptoms alone generally cannot establish a definitive diagnosis. Clinical history, examination, vital signs and appropriate diagnostic investigations may be necessary.
+
+==================================================
